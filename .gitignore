@@ -1,0 +1,9 @@
+#ignore everything
+*
+# do not ignore source and header file
+!*.json
+!*.ino
+!*.gitignore
+!*.md
+# Do not ignore directories
+!*/
